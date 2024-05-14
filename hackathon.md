@@ -15,7 +15,7 @@ Develop a web application that leverages CSV data for both display and functiona
    - Ensure the UI remains responsive even with extensive data.
 
 3. **Subscription Pricing Calculator:**
-   - Utilize the uploaded CSV data to develop a subscription pricing calculator.
+   - Utilize the uploaded CSV data to develop a Subscription Pricing Calculator.
    - Calculate and display subscription pricing based on the uploaded data.
 
 ## Subscription Pricing Formula
