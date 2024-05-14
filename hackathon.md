@@ -16,8 +16,7 @@ Develop a web application that leverages CSV data for both display and functiona
 
 3. **Subscription Pricing Calculator:**
    - Utilize the uploaded CSV data to develop a subscription pricing calculator.
-   - Design an intuitive interface for users to input their requirements.
-   - Calculate and display subscription pricing based on the uploaded data and user inputs.
+   - Calculate and display subscription pricing based on the uploaded data.
 
 ## Subscription Pricing Formula
 To calculate the subscription pricing based on credit score and the number of credit lines mentioned in the CSV, use the following formula:
