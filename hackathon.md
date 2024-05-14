@@ -29,6 +29,9 @@ Let:
 - `PricePerCreditScorePoint` be the additional price per credit score point.
 
 Then, the subscription price (`SubscriptionPrice`) can be calculated as follows:
+```
+SubscriptionPrice = BasePrice + (PricePerCreditLine * CreditLines) + (PricePerCreditScorePoint * CreditScore)
+```
 
 
 ## Additional Details
